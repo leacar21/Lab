@@ -5,7 +5,7 @@
   <groupId>com.lab</groupId>
   <artifactId>Lab</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>Lab</name>
   <url>http://maven.apache.org</url>
